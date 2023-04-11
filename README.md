@@ -9,7 +9,14 @@
 3. TCM Security <br/> [Linux Privilege Escalation](https://academy.tcm-sec.com/p/linux-privilege-escalation)
 4. TCM Security <br/> [Movement Pivoting](https://academy.tcm-sec.com/p/movement-pivoting-and-persistence-for-pentesters-and-ethical-hackers)
 <h1 align="center">AÇIKLAMA</h1>
-
+<div align="center">
+	<img src="https://www.offsec.com/wp-content/uploads/2015/01/offsec-say-tryharder-798x284.png"/>
 <p>Offensive Security Say – Try Harder!
 </p>
-OSCP zor bir sınav ama bir challenges oldunu unutmamız lazım bir daha tekrar denemelisiniz 
+OSCP zor bir sınav, ama bir challenge olduğunu unutmamız lazım. Bir daha tekrar denemeniz gerekiyor.
+
+5. HackTheBox Academy <br/> [HackTheBox](https://academy.hackthebox.com/)
+![screencapture-academy-hackthebox-dashboard-2023-04-11-19_04_35](https://user-images.githubusercontent.com/100738107/231222501-6d02325f-fd71-46ca-97bb-c4d49f3702ff.png)
+
+HackTheBox Academy odaları çözmek işimize çok yarıcak ve yararlı olcak 
+şimdi gelim labları nerden çözcez offensive security kendi sitesinde kendi oluşturdukları lab odaları mevcut bunun ücretli ve aylık $19  tabi bu isteye bağlı 
