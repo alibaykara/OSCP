@@ -9,7 +9,7 @@
 3. TCM Security <br/> [Linux Privilege Escalation](https://academy.tcm-sec.com/p/linux-privilege-escalation)
 4. TCM Security <br/> [Movement Pivoting](https://academy.tcm-sec.com/p/movement-pivoting-and-persistence-for-pentesters-and-ethical-hackers)
 5. TCM Security <br/> [Open-Source Intelligence (OSINT) Fundamentals](https://academy.tcm-sec.com/p/osint-fundamentals)
-. TCM Security <br/> [The External Pentest Playbook](https://academy.tcm-sec.com/p/external-pentest-playbook)	
+6. TCM Security <br/> [The External Pentest Playbook](https://academy.tcm-sec.com/p/external-pentest-playbook)	
 <h1 align="center">AÇIKLAMA</h1>
 <div align="center">
 	<img src="https://www.offsec.com/wp-content/uploads/2015/01/offsec-say-tryharder-798x284.png"/>
